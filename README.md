@@ -334,4 +334,6 @@ SECCIÓN 16–8 Aplicaciones básicas
 • Haciendo uso de los conceptos de análisis a la corriente alterna, a voltaje alterno y capacitores, se fue resolviendo de manera correcta los problemas planteados en los capítulos 15 y 16 de Floyd, para la resolución de estos se aplicó los conocimientos ya visto antes de circuitos en serie, paralelo y serie-paralelo, solo que interviniendo temas de circuito en RC Y RL.
 
 6. BLIBIOGRAFÍA
+
+
 Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
