@@ -327,6 +327,8 @@ SECCIÓN 16–8 Aplicaciones básicas
 ![image](https://user-images.githubusercontent.com/116772752/221052068-2a124520-a3ed-4d0e-9426-ba6318082052.png)
 
 5.CONCLUSIÓNES
+
+
 • Los conceptos leídos en el capítulo 15 y 16 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular circuitos RC en serie-paralelo y también RL.
 
 • Después de la lectura de los capítulos 15 y 16 del libro de Floyd, se utilizó mentefactos y mapas conceptuales para resumir estos temas, ya que ayudan a ubicar la información de un manera mucho más factible y fácil de entender y así evitando el uso de párrafos grandes que complican el entendimiento del tema.
